@@ -1,5 +1,5 @@
 
-
+#########merge request
 email=input("enter email id :")#g@g.in ,ddd@gmail.com
 k,j,d=0,0,0
 if len(email)>=6:#1
